@@ -83,7 +83,7 @@ This project builds an end-to-end machine learning pipeline to classify houses i
 
 ## 🚀 Run the Notebook
 
-Open [`notebooks/final_model.ipynb`](notebooks/Copetition_pipeline_for_multiple_models.ipynb) to walk through the full pipeline:
+Open [`notebooks/final_model.ipynb`](/Copetition_pipeline_for_multiple_models.ipynb) to walk through the full pipeline:
 
 * Preprocessing
 * Model training & tuning
