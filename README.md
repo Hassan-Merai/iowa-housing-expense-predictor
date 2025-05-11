@@ -41,9 +41,9 @@ This project builds an end-to-end machine learning pipeline to classify houses i
 
 | Model         | Accuracy                   | Precision | Recall | F1 Score | Kappa |
 | ------------- | -------------------------- | --------- | ------ | -------- | ----- |
-| SVC           | ✔ Best Overall             | 	0.9	    	0.857143	0.878049	0.858142
-| Random Forest | Good balance               |  0.941176  0.761905  0.842105  0.818784
-| KNN           | Performs well with scaling |  0.853659  0.833333  0.843373  0.81743 
+| SVC           | ✔ Best Overall             | 	0.9	     |0.857143|	0.878049 | 0.858142
+| Random Forest | Good balance               |  0.941176 |0.761905| 0.842105 |0.818784
+| KNN           | Performs well with scaling |  0.853659 |0.833333| 0.843373 | 0.81743 
 
 > SVC achieved the **best overall performance** across all metrics.
 
@@ -83,7 +83,7 @@ This project builds an end-to-end machine learning pipeline to classify houses i
 
 ## 🚀 Run the Notebook
 
-Open [`notebooks/final_model.ipynb`](notebooks/final_model.ipynb) to walk through the full pipeline:
+Open [`notebooks/final_model.ipynb`](notebooks/Copetition_pipeline_for_multiple_models.ipynb) to walk through the full pipeline:
 
 * Preprocessing
 * Model training & tuning
@@ -102,9 +102,9 @@ This project is licensed under the **MIT License**.
 **Hassan Merai(Fred)**
 Data scientist passionate about real-world ML and automation. Connect with me:
 
-* [LinkedIn](https://www.linkedin.com/in/your-link)
-* [Medium](https://medium.com/@your-name)
-* [GitHub](https://github.com/your-username)
+* [LinkedIn](https://www.linkedin.com/in/Hassan-Merai-nickname-Fred)
+* [Medium](https://medium.com/@Hassan-Merai)
+* [GitHub](https://github.com/Hassan-Merai)
 
 ---
 
