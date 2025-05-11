@@ -103,7 +103,7 @@ This project is licensed under the **MIT License**.
 Data scientist passionate about real-world ML and automation. Connect with me:
 
 * [LinkedIn](https://www.linkedin.com/in/Hassan-Merai-nickname-Fred)
-* [Medium](https://medium.com/@Hassan-Merai)
+* [Medium](https://medium.com/@hassanmerai79)
 * [GitHub](https://github.com/Hassan-Merai)
 
 ---
