@@ -9,7 +9,7 @@ This project builds an end-to-end machine learning pipeline to classify houses i
 * 📂 Dataset: Ames Housing Dataset (81 features)
 * 🎓 Goal: Classify whether a house is "expensive" using numerical, ordinal, and categorical features
 * 🚀 Techniques: Preprocessing pipelines, feature engineering, grid search, model comparison
-* 🔧 Tools: Scikit-learn, XGBoost, pandas, NumPy, matplotlib, seaborn
+* 🔧 Tools: Scikit-learn, KNN, Random Forest, SVC, pandas, NumPy, matplotlib, seaborn
 
 ---
 
